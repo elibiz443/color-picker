@@ -28,9 +28,9 @@ bin/dev
 
 ## Run the following:
 ```
-rails g stimulus colors
+rails g stimulus color-picker
 
-yarn add @melloware/coloris
+yarn add stimulus-color-picker
 ```
 
 Add in Gemfile ```gem 'foreman', github: 'ddollar/foreman'```
