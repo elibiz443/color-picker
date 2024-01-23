@@ -33,7 +33,4 @@ rails g stimulus color-picker
 yarn add stimulus-color-picker
 ```
 
-Add in Gemfile ```gem 'foreman', github: 'ddollar/foreman'```
-then ```bundle```
-
 Update stimulus controller and form.
